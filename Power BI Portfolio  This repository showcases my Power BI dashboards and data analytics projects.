@@ -1,0 +1,25 @@
+## 📈 Sales Insights Dashboard – Nigeria
+
+### 🔍 Overview
+
+This dashboard analyzes sales performance across states, products, and channels.
+
+### 💡 Key Insights
+
+* Total Sales: 969.30M
+* Top Selling Product: Keyboard
+* Top Sales Channel: Online
+* Highest Sales Month: July
+
+### 📊 Features
+
+* Interactive filters (Year, Month, Product, Channel)
+* Monthly sales trend analysis
+* State-wise sales comparison
+* Product-wise distribution
+
+### 🛠 Tools Used
+
+* Power BI
+* DAX
+* Data Modeling
